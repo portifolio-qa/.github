@@ -1,9 +1,18 @@
 # Projetos Automação
 &nbsp;
+
+## Front-end
+  &nbsp;
+
 * Cypress: https://github.com/portifolio-qa/automation-agi
-* Playwright Front-end: https://github.com/portifolio-qa/automation-qualitymap.git
+* Playwright: https://github.com/portifolio-qa/automation-qualitymap.git
 
   &nbsp;
+
+## Back-end
+  &nbsp;
+
+  * 
 
 
 # Tecnologias
