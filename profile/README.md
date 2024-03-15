@@ -12,7 +12,7 @@
 ## Back-end
   &nbsp;
 
-  * 
+  * Playwright: https://github.com/portifolio-qa/automation-back-qualitymap.git
 
 
 # Tecnologias
