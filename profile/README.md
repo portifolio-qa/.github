@@ -5,7 +5,7 @@
   &nbsp;
 
 * Cypress: https://github.com/portifolio-qa/automation-agi
-* Playwright: https://github.com/portifolio-qa/automation-qualitymap.git
+* Playwright: [https://github.com/portifolio-qa/automation-front-end-qualitymap.git](https://github.com/portifolio-qa/automation-front-qualitymap.git)
 
   &nbsp;
 
